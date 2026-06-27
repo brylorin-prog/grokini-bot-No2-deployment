@@ -852,7 +852,7 @@ async function showMainMenu(ctx, edit = false) {
     : '⚠️ No wallet connected';
   
   const message = `
-🚀 *Hey Welcome to Solbix Trading Bot- New* 🤖
+🚀 *Hey Welcome to Axiom auto Trading Bot- New* 🤖
 
 
 I’m the one-stop solution for all your trading needs!
